@@ -1,0 +1,69 @@
+.containerrr {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1499428665502-503f6c608263?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .signUpContent {
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+  }
+  /* .headerr h1 {
+    display: flex;
+  }
+  .headerr div {
+    display: flex;
+    flex: 1;
+    flex-direction: row-reverse;
+  }
+  .boddy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 10;
+    margin-bottom: 200px;
+  }
+  .boddy form {
+    display: flex;
+    flex-direction: row;
+  }
+  .boddy h6 {
+    margin-bottom: 15px;
+  }
+  .boddy form input {
+    width: 400px;
+    height: 60px;
+    margin-right: 1px;
+  }
+  .form-control:focus {
+    border-color: #ff0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  }
+  .link {
+    height: 60px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .footerr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  } */
+  
